@@ -27,19 +27,19 @@ br-english/
 
 ## Como Executar Localmente
 
-1. **Instalar dependências:**
+1. **Instalar dependências (requer [pnpm](https://pnpm.io))**:
    ```bash
-   npm install
+   pnpm install
    ```
 
 2. **Executar em modo de desenvolvimento:**
    ```bash
-   npm run dev
+   pnpm run dev
    ```
 
 3. **Criar build de produção:**
    ```bash
-   npm run build
+   pnpm run build
    ```
 
 ## Publicação no GitHub Pages
